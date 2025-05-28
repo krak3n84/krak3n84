@@ -1,15 +1,10 @@
 # 👋 About Me — Casey
+Powered by coffee so strong it could wake a quantum computer, fueled by faith, and coded in Python (with a sneaky dash of JavaScript because I’m extra like that).
 
-Welcome! I'm Casey, a Network Operations Technician with K-LOVE Christian Ministry, passionate about technology, faith-driven service, and lifelong learning.
+Network Operations Technician @ K-LOVE | Quantum Computing Daydreamer | Volunteer Chaos Coordinator
 
-I enjoy exploring Cybersecurity, Quantum Computing, Python programming, and content creation—always looking for new ways to use technology positively. My heart is rooted in serving others through volunteering with Greenhouse Ministries, The Journey Home, Reclaimed Ministry and The 5000 at Church.
+I’m here to network—whether it’s Wi-Fi signals or new friends—while debugging life’s messiest bugs one laugh at a time. When I’m not wrestling rogue routers or pondering if Schrödinger’s cat has Wi-Fi, I’m out volunteering with Reclaimed Ministry, People Loving Nashville, or The 5000 (feeding souls and stomachs, no admin password required).
+Cybersecurity keeps me paranoid, quantum computing keeps me curious, and content creation keeps me caffeinated. Current obsession? Tinkering with Python scripts to simulate quantum shenanigans—because who doesn’t want to collapse a wavefunction before breakfast? Let’s collab on something epic—bring your own coffee, your wildest ideas, or just a meme about JavaScript closures. I promise not to byte—unless you’re a mosquito at a summer BBQ or a glitch in my code!
 
-Feel free to connect, collaborate, or just say hi! I believe we're better together—let's make something impactful.
 
 **"Whatever you do, work at it with all your heart, as working for the Lord." — Colossians 3:23**
-
-<!---
-krak3n84/krak3n84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
