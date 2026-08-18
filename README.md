@@ -22,9 +22,6 @@ Python automation that compares sequential operational CSV reports, carries forw
 ### [Gain Capital Email Archiver](https://github.com/krak3n84/gain-capital-email-archiver)
 Google Apps Script workflow that processes labeled email, prevents duplicate work, converts messages to PDF, organizes output in Google Drive, and supports scheduled execution.
 
-### [Youth Sports Scheduler](https://github.com/krak3n84/Youth_Sports_Scheduler)
-Full-stack application project using TypeScript, Hono, Cloudflare D1, REST-style APIs, responsive UI design, and iCal/ICS calendar ingestion. This repository is a learning/demo project rather than a production authentication reference.
-
 ### [ForexSentinel](https://github.com/krak3n84/ForexSentinel)
 Python automation for retrieving public economic-calendar data, filtering relevant events, and distributing a scheduled email summary using environment-based credentials and TLS.
 
