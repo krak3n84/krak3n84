@@ -35,6 +35,10 @@ Google Apps Script utility for reducing large MetaTrader optimization exports in
 
 I prefer repeatable checks, clear logs, documented assumptions, and automation that makes an operator's next decision easier. My goal is not automation for its own sake; it is safer operations, faster troubleshooting, and less time spent on repetitive manual work.
 
+## Public Portfolio Boundary
+
+Public repositories are intended to contain only code, synthetic examples, and sanitized documentation appropriate for public sharing. Production credentials, private operational reports, internal configuration, customer/listener data, and other sensitive information do not belong in this portfolio.
+
 ## Faith & Service
 
 My technical work and ministry service share the same goal: use the skills God has given me to serve people well. I volunteer through local ministry efforts and look for practical ways technology can support encouragement, reliability, and service.
