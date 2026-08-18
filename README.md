@@ -1,25 +1,47 @@
-# 👋 About Me — Casey
+# Casey Craft
 
-**Network Operations Technician 2 | Christian Radio Broadcasting | Ministry Volunteer**
+**Network Operations Technician II | Network & Broadcast Operations | Automation | Cybersecurity**
 
-Powered by faith and fueled by strong coffee, I work as a Network Operations Technician with a Christian Radio Station, where I help transmit positive and encouraging music to all who want to know and pursue God. Every day, I get to combine my technical skills with my passion for sharing hope through reliable broadcast operations.
+I work in 24/7 network and broadcast operations supporting reliable delivery of positive and encouraging Christian radio. I focus on practical troubleshooting, operational reliability, and building automation that reduces repetitive work and improves situational awareness.
 
-## What I Do
-- **Radio Broadcasting**: Ensuring seamless transmission of Christian music and content that encourages listeners in their faith journey
-- **Network Operations**: Managing critical infrastructure that keeps our message on the air 24/7
-- **Ministry Service**: Volunteering with Experience Community Church's Parking Team, 5000 Ministry, and Reclaimed Ministry
+I am also pursuing a B.S. in Computer Science through UMGC and continue to develop skills in Python, PowerShell, cybersecurity, APIs, cloud tooling, and AI-assisted engineering.
 
-## My Mission
-I strive to be a light for Jesus in everything I do—whether I'm troubleshooting network issues, serving at church, or connecting with others in the community. My goal is simple: use my technical skills and volunteer work to do good for others and point them toward God's love.
+## Technical Focus
 
-## Beyond the Technical
-When I'm not ensuring our radio signals reach every corner of our community, you'll find me:
-- Serving with the Parking Team at Experience Community Church
-- Volunteering with 5000 Ministry and Reclaimed Ministry
-- Continuously learning new technologies to better serve our mission
-- Building connections with fellow believers and tech enthusiasts
+- **Network & Broadcast Operations:** incident triage, infrastructure monitoring, troubleshooting, escalation, and service restoration
+- **Automation:** Python and PowerShell tools for reporting, data processing, workflow improvement, and repeatable operational checks
+- **Cybersecurity:** incident response, DFIR, SIEM concepts, security automation, and defensive tooling
+- **Software Engineering:** Python, Java, JavaScript/TypeScript, SQL, REST APIs, Git/GitHub, and cloud-hosted applications
+- **AI Engineering:** practical use of LLMs and agent workflows for research, analysis, automation, and technical operations
 
-## Let's Connect
-Whether you're interested in Christian radio, network operations, or finding ways to use technology for ministry, I'd love to connect. I believe in the power of collaboration and community—especially when it's centered on serving others.
+## Featured Work
 
-**"Whatever you do, work at it with all your heart, as working for the Lord." — Colossians 3:23**
+### [Forward Power Report Analyzer](https://github.com/krak3n84/report-analyzer)
+Python automation that compares sequential operational CSV reports, carries forward known issue context, identifies newly affected sites, and creates operator-ready output files.
+
+### [Gain Capital Email Archiver](https://github.com/krak3n84/gain-capital-email-archiver)
+Google Apps Script workflow that processes labeled email, prevents duplicate work, converts messages to PDF, organizes output in Google Drive, and supports scheduled execution.
+
+### [Youth Sports Scheduler](https://github.com/krak3n84/Youth_Sports_Scheduler)
+Full-stack application project using TypeScript, Hono, Cloudflare D1, REST-style APIs, responsive UI design, and iCal/ICS calendar ingestion. This repository is a learning/demo project rather than a production authentication reference.
+
+### [ForexSentinel](https://github.com/krak3n84/ForexSentinel)
+Python automation for retrieving public economic-calendar data, filtering relevant events, and distributing a scheduled email summary using environment-based credentials and TLS.
+
+### [EA Bot OPT Analyzer](https://github.com/krak3n84/EABotOPTAnalyzer)
+Google Apps Script utility for reducing large MetaTrader optimization exports into a focused set of candidate results using configurable metrics and repeatable filtering.
+
+## How I Approach Technical Work
+
+I prefer repeatable checks, clear logs, documented assumptions, and automation that makes an operator's next decision easier. My goal is not automation for its own sake; it is safer operations, faster troubleshooting, and less time spent on repetitive manual work.
+
+## Faith & Service
+
+My technical work and ministry service share the same goal: use the skills God has given me to serve people well. I volunteer through local ministry efforts and look for practical ways technology can support encouragement, reliability, and service.
+
+> **"And whatsoever ye do, do it heartily, as to the Lord, and not unto men." — Colossians 3:23 (KJV)**
+
+## Connect
+
+- GitHub: [krak3n84](https://github.com/krak3n84)
+- LinkedIn: [Casey Craft](https://www.linkedin.com/in/casey-craft0316/)
